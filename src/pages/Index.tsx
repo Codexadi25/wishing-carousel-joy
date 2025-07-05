@@ -1,5 +1,6 @@
 
 import BirthdayCarousel from "@/components/BirthdayCarousel";
+import MysteryGiftBox from "@/components/MysteryGiftBox";
 
 const Index = () => {
   return (
@@ -111,6 +112,11 @@ const Index = () => {
           <p className="text-xl md:text-2xl text-white/90 font-light">
             Celebrating another wonderful year of your amazing life!
           </p>
+        </div>
+
+        {/* Mystery Gift Box */}
+        <div className="flex justify-center mb-12">
+          <MysteryGiftBox />
         </div>
 
         {/* Birthday Carousel */}
