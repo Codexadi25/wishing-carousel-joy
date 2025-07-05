@@ -106,7 +106,7 @@ const Index = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-5xl md:text-7xl center font-bold text-white mb-4 animate-fade-in">
-            🥳🥳<p>Happy Birthday! my cute pie of 💖heart!</p>
+            🥳🥳<p>Happy Birthday! pie of 💖heart!</p>
           </h1>
           <div className="w-32 h-1 bg-gradient-to-r from-yellow-400 to-pink-400 mx-auto rounded-full mb-6"></div>
           <p className="text-xl md:text-2xl text-white/90 font-light">
