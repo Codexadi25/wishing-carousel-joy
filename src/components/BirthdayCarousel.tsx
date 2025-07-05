@@ -3,14 +3,12 @@ import React, { useState, useEffect } from 'react';
 
 const BirthdayCarousel = () => {
   const birthdayWishes = [
-    "🎉 Happy Birthday to the one who makes ordinary days feel a little more magical! ✨",
-    "I asked Mahadev for strength, and He sent me your name wrapped in a smile I can't forget.",
     "I hope your day is as beautiful, bright, and full of possibility as your smile. You have this effortless way of making everything around you better—your presence, your laughter, your energy.",
     "May this year bring you everything that makes your heart happiest—and maybe a little surprise or two along the way. Where smiles😊, little adventures, and beautiful moments… and maybe a few shared ones too 💫",
-    "Sending love wrapped in lines of code, because just like my code— you're crafted with purpose and close to my heart, some codes are written to solve problems… But there's one I've been debugging for a while now— the one where your name compiles perfectly with mine.💙",
-    "Stay divine, Stay amazing, always. – Someone who secretly thinks the world of you.",
-    "🌟 May your birthday be the start of a year filled with good luck, good health, and much happiness! ✨",
-    "🎈 Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor! 🎊"
+    "I asked Mahadev for strength, and He sent me your name wrapped in a smile I can't forget.",
+    "Sending this love to someone who is realy ment for me forever and ever...🎉 Happy Birthday to the one who makes ordinary days feel a little more magical! ✨",
+    "Love wrapped in these lines of code, because just like my code— you're crafted with purpose and close to my heart, some codes are written to solve problems… But there's one I've been debugging for a while now— the one where your name compiles perfectly with mine.💙",
+    "🌟 May your birthday be the start of a year filled with good luck, good health, and much happiness! ✨Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor! 🎊"
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);

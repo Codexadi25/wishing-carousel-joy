@@ -1,5 +1,6 @@
 
 import BirthdayCarousel from "@/components/BirthdayCarousel";
+import MysteryGiftBox from "@/components/MysteryGiftBox";
 
 const Index = () => {
   return (
@@ -104,25 +105,34 @@ const Index = () => {
       <div className="relative z-10 w-full max-w-6xl mx-auto px-4">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-5xl md:text-7xl font-bold text-white mb-4 animate-fade-in">
-            🥳 Happy Birthday! 🥳
+          <h1 className="text-5xl md:text-7xl center font-bold text-white mb-4 animate-fade-in">
+            🥳🥳<p>Happy Birthday! my cute pie of 💖heart!</p>
           </h1>
           <div className="w-32 h-1 bg-gradient-to-r from-yellow-400 to-pink-400 mx-auto rounded-full mb-6"></div>
           <p className="text-xl md:text-2xl text-white/90 font-light">
-            Celebrating another wonderful year of your amazing life!
+            I asked Mahadev for strength, and He sent me your name wrapped in a smile I can’t forget!
           </p>
         </div>
 
+
         {/* Birthday Carousel */}
-        <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 md:p-12 shadow-2xl border border-white/20">
+        <div className="bg-white/10 backdrop-blur-s rounded-l p-8 md:p-12 shadow-2xl border border-white/20">
           <BirthdayCarousel />
         </div>
 
         {/* Footer message */}
         <div className="text-center mt-12">
-          <p className="text-lg md:text-xl text-white/80 font-light">
-            May this special day be filled with love, laughter, and unforgettable moments! 💕
+          <p className="text-lg md:text-xl text-white/80 font-light bg-white/10 backdrop-blur-s">
+            💖 Stay divine, Stay amazing, always. – Someone who secretly thinks the world of you. 💕
           </p>
+          <p className="text-lg md:text-xl text-white/80 font-light bg-white/10 backdrop-blur-s">
+            ❤️Love you x3000❤️
+          </p>
+        </div>
+        
+        {/* Mystery Gift Box */}
+        <div className="flex justify-center mb-12">
+          <MysteryGiftBox />
         </div>
       </div>
     </div>
