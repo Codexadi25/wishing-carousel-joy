@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Codexadi25.github.io/wishing-carousel-joy/",
+
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
