@@ -114,6 +114,13 @@ const Index = () => {
           </p>
         </div>
 
+<<<<<<< HEAD
+=======
+        {/* Mystery Gift Box */}
+        <div className="flex justify-center mb-12">
+          <MysteryGiftBox />
+        </div>
+>>>>>>> 206f36fb1056f53ac5c23e6e29a6ae90c895246a
 
         {/* Birthday Carousel */}
         <div className="bg-white/10 backdrop-blur-s rounded-l p-8 md:p-12 shadow-2xl border border-white/20">
