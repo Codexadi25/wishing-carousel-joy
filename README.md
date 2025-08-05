@@ -1,7 +1,7 @@
 # Welcome to your Lovable project
 
 # Project info
-
+**[Live Project Link](https://codexadi25.github.io/wishing-carousel-joy/)**
 <!-- **URL**: https://lovable.dev/projects/f76c976a-aca4-4951-9ca2-7a5eff2a3259 -->
 
 ## How can you edit this code?
@@ -60,11 +60,11 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How can you deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/f76c976a-aca4-4951-9ca2-7a5eff2a3259) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can you connect a custom domain to my Lovable project?
 
 Yes, you can!
 
